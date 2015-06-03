@@ -1,4 +1,5 @@
 # installation script for ubuntu 14.04
+set -e
 
 sudo apt-get install -y automake bison doxygen ethtool flex g++ git \
 ipython ipython-notebook libany-moose-perl libboost-dev libboost-filesystem-dev \
